@@ -1,0 +1,5 @@
+@use "styles-lib/styles/global-styles";
+
+.has-my-color {
+  color: global-styles.$my-color;
+}
